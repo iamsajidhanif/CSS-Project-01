@@ -1,0 +1,16 @@
+
+Orange
+#F16232
+
+Dark-BG
+#171A25
+
+Blue-BG
+#16194F
+158 KB
+1919 by 960 pixel
+
+Overlay
+#1B1F29
+
+
