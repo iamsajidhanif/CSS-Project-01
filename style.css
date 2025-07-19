@@ -12,7 +12,8 @@
 
 .heading {
     text-align: center;
-    color: #403d39;
+    /* color: #403d39; */
+    color: #eb5e28;
     /* margin: 20px; */
     padding: 40px 0px 20px 0px;
 }
